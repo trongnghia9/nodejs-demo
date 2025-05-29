@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/trongnghia9/nodejs-demo/issues"
   },
-  "homepage": "https://github.com/trongnghia9/nodejs-demo#readme"
+  "homepage": "https://github.com/trongnghia9/nodejs-demo#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }

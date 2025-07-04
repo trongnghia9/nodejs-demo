@@ -5,7 +5,7 @@ const webrouter = (app: Application) => {
     Router.get('/', (req: Request, res: Response) => {
         res.render('home', {
             title: 'Trang chủ',
-            message: 'Chào mừng đến với ứng dụng Express.js'
+            message: 'Chào mừng đến với ứng dụng Express.js hahaah'
         });
     });
 
